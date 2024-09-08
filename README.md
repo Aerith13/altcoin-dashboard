@@ -22,10 +22,11 @@ Video for Re-checking:
 https://bit.ly/Modified-Altcoin-Dashboard
 
 --------------------------------------------------------------------------------------------
-MEMBERS:
 
-Esguerra, Desiree E.
+ORGANIZED AND DEVELOPED BY: Esguerra, Desiree E.
 
+
+TESTED BY:
 Dadia, Christian Joshua
 
 Galing, Jhon Paul
