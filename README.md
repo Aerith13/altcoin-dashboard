@@ -1,4 +1,4 @@
-ko# altcoin-dashboard
+# altcoin-dashboard
 
 Project Name: Altcoin Dashboard
 API Used: CoinGecko API
