@@ -1,4 +1,4 @@
-# altcoin-dashboard
+ko# altcoin-dashboard
 
 Project Name: Altcoin Dashboard
 API Used: CoinGecko API
@@ -24,17 +24,6 @@ https://bit.ly/Modified-Altcoin-Dashboard
 --------------------------------------------------------------------------------------------
 
 ORGANIZED AND DEVELOPED BY: Esguerra, Desiree E.
-
-
-TESTED BY:
-Dadia, Christian Joshua
-
-Galing, Jhon Paul
-
-Dionisio, Erika Mae
-
-Castillo, Keiren Aizel
-
 BSIT 3A
 
 
